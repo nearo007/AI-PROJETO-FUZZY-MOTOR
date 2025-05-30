@@ -22,12 +22,14 @@ Sistema especialista baseado em **lógica fuzzy** para avaliação do risco de f
 
 ## 🛠️ Tecnologias Utilizadas
 
-| Tecnologia | Uso |
-|------------|-----|
-| ![Python](https://img.shields.io/badge/Python-3.x-blue) | Linguagem principal |
-| ![skfuzzy](https://img.shields.io/badge/skfuzzy-0.9.0-orange) | Lógica fuzzy |
-| ![Matplotlib](https://img.shields.io/badge/Matplotlib-3.4.2-red) | Visualização |
-| ![NumPy](https://img.shields.io/badge/NumPy-1.21.0-yellow) | Cálculos numéricos |
+| Tecnologia | Versão |
+|------------|--------|
+| ![Python](https://img.shields.io/badge/Python-3.x-blue) | 3.x |
+| ![scikit-fuzzy](https://img.shields.io/badge/scikit--fuzzy-0.5.0-orange) | 0.5.0 |
+| ![Matplotlib](https://img.shields.io/badge/Matplotlib-3.10.3-red) | 3.10.3 |
+| ![NumPy](https://img.shields.io/badge/NumPy-2.2.6-yellow) | 2.2.6 |
+| ![SciPy](https://img.shields.io/badge/SciPy-1.15.3-blueviolet) | 1.15.3 |
+| ![NetworkX](https://img.shields.io/badge/NetworkX-3.5-green) | 3.5 |
 
 ## 💡 Aplicações
 
@@ -39,8 +41,8 @@ Sistema especialista baseado em **lógica fuzzy** para avaliação do risco de f
 ## ⚙️ Como Executar
 
 ```bash
-# 1. Instalar dependências
-pip install numpy scikit-fuzzy matplotlib
+# 1. Instalar dependências (recomendado usar ambiente virtual)
+pip install -r requirements.txt
 
 # 2. Executar o sistema
 python sistema_risco_falha.py
