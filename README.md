@@ -28,10 +28,11 @@ Sistema especialista baseado em **lógica fuzzy** para avaliação do risco de f
 ![Imagem1](https://github.com/user-attachments/assets/32662013-1f19-4241-b366-1f98a7b2799d)
 
 # Risco médio
-![Imagem2](https://github.com/user-attachments/assets/c37876f6-f52a-40ce-96a6-b1440d3f641c)
+![Imagem2](https://github.com/user-attachments/assets/3b0f6511-ebfb-48ff-ad80-ee09189e6ce9)
 
 # Risco alto
-![Imagem3](https://github.com/user-attachments/assets/1ecb97de-85f6-4091-a8a6-ddfa011961b5)
+![Imagem3](https://github.com/user-attachments/assets/f0ba944e-810f-4311-87be-23f09f160c87)
+
 
 | Tecnologia | Versão |
 |------------|--------|
