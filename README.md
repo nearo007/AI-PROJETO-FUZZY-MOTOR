@@ -20,9 +20,7 @@ Sistema especialista baseado em **lógica fuzzy** para avaliação do risco de f
 - Cálculo automático do risco de falha (0-100%)
 - Exibição gráfica dos resultados
 
-  ## Exibição Gráfica
-
-## Tecnologias Utilizadas
+## Exibição Gráfica
 
 # Risco baixo
 ![Imagem1](https://github.com/user-attachments/assets/32662013-1f19-4241-b366-1f98a7b2799d)
@@ -33,6 +31,7 @@ Sistema especialista baseado em **lógica fuzzy** para avaliação do risco de f
 # Risco alto
 ![Imagem3](https://github.com/user-attachments/assets/f0ba944e-810f-4311-87be-23f09f160c87)
 
+## Tecnologias Utilizadas
 
 | Tecnologia | Versão |
 |------------|--------|
