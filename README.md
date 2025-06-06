@@ -1,4 +1,4 @@
-# Sistema de Avaliação de Risco de Falha em Motores Elétricos 🔧⚡
+# Sistema de Avaliação de Risco de Falha em Motores Elétricos
 
 ![Fuzzy Logic](https://img.shields.io/badge/Fuzzy-Logic-blue)
 ![Python](https://img.shields.io/badge/Python-3.x-green)
